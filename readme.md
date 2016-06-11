@@ -1,6 +1,8 @@
 # The Dollars iOS App 1.0
 
-The current state of the iOS app is in alpha. It is buggy, incomplete and not polished. To install this app on your iOS device, you must download this repo, import it into xCode 7 and build to your iOS device. This website: http://www.igeeksblog.com/how-to-sideload-apps-on-iphone-and-ipad/ has a very easy step-by-step tutorial.
+The current state of the iOS app is in alpha. It is buggy, incomplete and not polished. I will try and update this frequently, and will be adding features to further improve the use of the app. Again, in no way is this complete. 
+
+To install this app on your iOS device, you must download this repo, import it into xCode 7 and build to your iOS device. This website: http://www.igeeksblog.com/how-to-sideload-apps-on-iphone-and-ipad/ has a very easy step-by-step tutorial. Also, currently the profile is likely to expire every 3 months, this is due to the provisioning profile being under a single name (mine) rather than an enterprise profile. For now, you will have to re-install this app every 3 months to keep using it.
 
 ### Features:
 
