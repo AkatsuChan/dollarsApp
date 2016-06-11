@@ -2,7 +2,7 @@
 
 The current state of the iOS app is in alpha. It is buggy, incomplete and not polished. To install this app on your iOS device, you must download this repo, import it into xCode 7 and build to your iOS device. This website: http://www.igeeksblog.com/how-to-sideload-apps-on-iphone-and-ipad/ has a very easy step-by-step tutorial.
 
-### FEATURES:
+### Features:
 
 - Easy access to the Dollars-BBS, Roadrunner Forums (presuming you know the password for both), DRRRChat, Dollars Tumblr Page, and the Dollars World Map.
 
@@ -12,7 +12,7 @@ The current state of the iOS app is in alpha. It is buggy, incomplete and not po
 
 - This app does not store any data you enter, i.e your google account. It is safe and encrypted, any passwords will be stored via iCloud and the Keychain.
 
-### NOTES:
+### Notes:
 
 - To be updated via email on when the latest update of the app is available on GitHub, please enter your email in this form: http://goo.gl/forms/45fH1cbfqxWok8q42
     I will send emails via akatsu.dollars@gmail.com when there is an update available.
