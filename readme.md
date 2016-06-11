@@ -1,6 +1,6 @@
 # The Dollars iOS App 1.0
 
-The current state of the iOS app is in alpha. It is buggy, incomplete and not polished.
+The current state of the iOS app is in alpha. It is buggy, incomplete and not polished. To install this app on your iOS device, you must download this repo, import it into xCode 7 and build to your iOS device. This website: http://www.igeeksblog.com/how-to-sideload-apps-on-iphone-and-ipad/ has a very easy step-by-step tutorial.
 
 ### FEATURES:
 
@@ -18,4 +18,3 @@ The current state of the iOS app is in alpha. It is buggy, incomplete and not po
     I will send emails via akatsu.dollars@gmail.com when there is an update available.
 - I will answer emails as much as I can so feel free to send me questions, comments, suggestions and (construcive) critisicm!
 - Thank you for checking out the iOS app, solely developed by the one and only Akatsu~
-
